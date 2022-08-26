@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
                 "html:target/default-html-reports",
                 "rerun:target/rerun.txt"},
         features = "src/test/resources/features",
-        glue = "com/ALJ/Step_definitions",
+        glue = "com/ALJ/Step_Definitions",
         dryRun = false,
         tags = "@wip"
 )
